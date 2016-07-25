@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.2.1_afc7cbe28adf40a182b2ee2d62341a0e753d7d97.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.2.1_600f6d32c2fde9eb57375c2adce206a7e67ce689.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.0_ff99dd48e1f20f4026cde6ac0f7e2e7bd42fb42b.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.2.1_25b8e3d1228193e940dca0d445688aa1dd8d2fe3.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.0_86b58b725f1438e90849cb1e4ce0b599309ee78f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Brian.Cruts\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.0_2d3d07258ae26ca8e2a2e45cfaf0429086900570.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.2.1_e25fb4850be4134fc6293c985b1be4b21d669cac.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.2.1_45ccf204c0b7452a439ca726611379d30e1f51c5.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.2.1_38757d18b90485f1e655afea4df1afe414053955.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.2.1_adc088c4cdf69f5ec69bac72c3e78bc42a7ae54e.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.2.1_f4aa9b5d17e60aad07e2808bb796a5ebe821b419.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="428c9bac95b2f72921224e289553a04bea61cda5">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.2.1_46d17ee1a30cf5b6633d75a0d417304dd274e32e.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.2.1_7f8c33a037904c8bd0b0b124f2241649227f3593.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.2.1_a6e338ed616975d13d838e2e6c3295d7559a56e7.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.2.1_67b694a68afa720c4cceb8da715fe197df6bcb51.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.2.1_5e13f6fae960c02a9dfedc5c353587108278e2b1.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.2.1_e9606122a8e1f65845fcbd279309dc5e8503ea59.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.2.1_45d8ab2d787f90f5a79ed5a16136b47461471feb.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.2.1_7cfd91efcc5f5d70c873538fe164c520e713071f.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.2.1_fb275693fac0702e5a124bf2137e48e490d600ae.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-contextmanager-9.2.1_6db29645588a44d64294d583491ad2cf988fc3c7.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.2.1_ed80bd710897c2a5d039aadd64d3de4dbe968f01.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.2.1_4f59e6fb87065abebc2261710766c55d7d81cc1f.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.2.1_1d803be8685c7048e2ca586f37003b96a3ae533b.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.2.1_87ecdf12bdb9aab430921fab8de5fc62e5862ef3.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-9.2.1_bd4a9884f5706c8645b9a1ce18cfd1ba720ba9a4.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d064f813cd835f17853e39221b247cf6a997a2db">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.2.1_16d3cf4cfe95e3c7d457c0f4d75fc274b1018800.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\libs\internal_impl-24.1.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.0_1d7b10ccaf7b59fab9f54db70295e8ef14da18a9.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.2.1_c6b97f8216e9a987837feba9052b0903bef09584.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.2.1_091396de085eb9cdd8a530386c4134cbcedd579e.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.2.1_b4d6f3d397bd56a038762d96802e2817847cf725.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.2.1_ed4a39814e5e0225722c6a462bd1b8d68c53cd42.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.2.1_967868d0a77d70d4c631c41ad0526f0c565dfcf9.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.2.1_bbb4fcb8771583b82be15fb64f255c2c474b27d2.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_fa027ec9c96a834db6e4ad02a66cf85b186a9043.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.0_10cd4881b273a6676e70c0bf281ce3eef9cef174.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.2.1_78d2f8a02d9ce91bffccff7094e86a7273fe801a.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.2.1_ccab42b5d7ec71a00a2690aeb00a93cad88ab54d.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.2.1_d84889f6bbf576e1b2b0e8fbf3d5b83fc5219022.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.2.1_fb00b58e5ff8bb1bae2366bb4fc9953172beb2a5.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_ede3dbb028d333e3e169e75fc2977d1c967f40e0.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.2.1_81c04c589571f0947f327aa6f6003571724e6d24.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.2.1_2bd8ea96704702df1051234b0dee6e9cf49f678d.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.2.1_6187e259a9cd3cdb5ef4b3ed69bc58873e60043b.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.2.1_243244ec16cd12a4b57ad56c9f0e7924dccb7ab2.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.2.1_f4af7ae0151d4cb330f645c6862e7c7abceeb88a.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.2.1_c9ce0350396acd1c308ded322c8b7dc590cf6eec.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.2.1_7ba97d570a6d9f7b52378b361fd6932cb1d5b3e1.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.0_d1d87d801e50fdc59b43d682b693a31b8c45c7a9.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-9.2.1_386f8d793fe6efbfdc664004d7a11903870434c1.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.2.1_7a18db16826769358d3421203b109435e188dfb4.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.2.1_40bf525381e19bdd61b67bf78cfed3d582ec96f6.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.2.1_cd327761b4cd9ea46fcc42719a7ca63cda15ab54.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.2.1_a07bf7f90ef384cd057255bfdc4a1cb564777d23.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.2.1_880c861e87b0a594825d3ff01936ae8522c34dfa.jar" />
+    </item>
+    <item
+        jar="C:\SimpleClusterExpanding\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="C:\SimpleClusterExpanding\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.2.1_5da34de792649044aebd54195cefa592aff40723.jar" />
+    </item>
+
+</items>
